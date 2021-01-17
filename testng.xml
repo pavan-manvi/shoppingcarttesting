@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="TestShoppingSite">
+  <test name="Login and place order functionality">
+    <packages>
+      <package name="tests" />
+   	</packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
